@@ -1,4 +1,4 @@
-Add the following to your pom.xml:
+Add the following to your pom.xml to `<repositories>` section:
 
 ````
 <repository>
